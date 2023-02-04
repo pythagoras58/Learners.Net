@@ -1,0 +1,15 @@
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\bin\Debug\net7.0\Learner.Tutorials.exe
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\bin\Debug\net7.0\Learner.Tutorials.deps.json
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\bin\Debug\net7.0\Learner.Tutorials.runtimeconfig.json
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\bin\Debug\net7.0\Learner.Tutorials.dll
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\bin\Debug\net7.0\Learner.Tutorials.pdb
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\obj\Debug\net7.0\Learner.Tutorials.csproj.AssemblyReference.cache
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\obj\Debug\net7.0\Learner.Tutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\obj\Debug\net7.0\Learner.Tutorials.AssemblyInfoInputs.cache
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\obj\Debug\net7.0\Learner.Tutorials.AssemblyInfo.cs
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\obj\Debug\net7.0\Learner.Tutorials.csproj.CoreCompileInputs.cache
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\obj\Debug\net7.0\Learner.Tutorials.dll
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\obj\Debug\net7.0\refint\Learner.Tutorials.dll
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\obj\Debug\net7.0\Learner.Tutorials.pdb
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\obj\Debug\net7.0\Learner.Tutorials.genruntimeconfig.cache
+C:\Users\Pythagorasweb\RiderProjects\Learners\Learner.Tutorials\obj\Debug\net7.0\ref\Learner.Tutorials.dll
