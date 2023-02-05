@@ -83,7 +83,16 @@ namespace Learner.Tutorials
            }*/
            
            
-               
+           //LOOPS
+           int[] intsToCompress = new[] { 1, 23, 34, 34, 5, 65, 4, 3 };
+           int sum = 0;
+           foreach (var i in intsToCompress)
+           {
+               sum += i;
+           }
+           Console.WriteLine(sum);
+
+
         }
     }
 }
