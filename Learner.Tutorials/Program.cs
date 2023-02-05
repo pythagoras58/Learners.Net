@@ -5,19 +5,19 @@ namespace Learner.Tutorials
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pythagoras");
+            // Console.WriteLine("Pythagoras");
             
             // variables:
-            string myString = "Pythagoras";
+           /* string myString = "Pythagoras";
             decimal myDecimal = 12.23M;
             bool myBool = true;
             
             Console.WriteLine(myString.GetType());
             Console.WriteLine(myDecimal.GetType());
-            Console.WriteLine(myBool.GetType());
+            Console.WriteLine(myBool.GetType());*/
             
             // Data Structures
-            Console.WriteLine("Data Structure - Arrays");
+           /* Console.WriteLine("Data Structure - Arrays");
             string[] food = new string[2];
             food[0] = "Banku";
             food[1] = "Tilapia";
@@ -64,7 +64,26 @@ namespace Learner.Tutorials
                 {"FBA", new []{"Henry","Isaac", "Daniel"}}
             };
             
-            Console.WriteLine(Lecturers["FBA"]);
+            Console.WriteLine(Lecturers["FBA"][1]); */
+           
+           /*string myFirstValue = "some words";
+           string mySecondValue = "Some Words";
+
+           if(myFirstValue == mySecondValue)
+           {
+               Console.WriteLine("equal");
+           }
+           else if(!myFirstValue.Equals(mySecondValue))
+           {
+               Console.WriteLine("equal without case sensitivity");
+           }
+           else
+           {
+               Console.WriteLine("not equal");
+           }*/
+           
+           
+               
         }
     }
 }
