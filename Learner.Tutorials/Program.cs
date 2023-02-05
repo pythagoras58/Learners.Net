@@ -57,6 +57,14 @@ namespace Learner.Tutorials
             };
             
             Console.WriteLine(myStudents[12]);
+
+            Dictionary<string, string[]> Lecturers = new Dictionary<string, string[]>()
+            {
+                {"FESAC", new []{"Sheela","Totimeh", "Helen"}},
+                {"FBA", new []{"Henry","Isaac", "Daniel"}}
+            };
+            
+            Console.WriteLine(Lecturers["FBA"]);
         }
     }
 }
