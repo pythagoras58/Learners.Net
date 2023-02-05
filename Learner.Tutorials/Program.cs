@@ -45,6 +45,18 @@ namespace Learner.Tutorials
             IEnumerable<string> myBooks = petList;
             
             Console.WriteLine(myBooks.FirstOrDefault(c=> c.ToString() == "Killer"));
+            
+            Console.WriteLine("Data Structure - Dictionary");
+            Dictionary<int, string> myStudents = new Dictionary<int, string>()
+            {
+                {12, "Solomon"},
+                {13, "Forgive"},
+                {14, "Jeffery"},
+                {15, "Albert"},
+                {16, "Cedric"}
+            };
+            
+            Console.WriteLine(myStudents[12]);
         }
     }
 }
