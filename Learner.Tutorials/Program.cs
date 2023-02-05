@@ -40,6 +40,11 @@ namespace Learner.Tutorials
             {
                 Console.WriteLine(pet);
             }
+            
+            Console.WriteLine("Data Structure - IEnumerable");
+            IEnumerable<string> myBooks = petList;
+            
+            Console.WriteLine(myBooks.FirstOrDefault(c=> c.ToString() == "Killer"));
         }
     }
 }
