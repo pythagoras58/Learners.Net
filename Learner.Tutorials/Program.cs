@@ -91,8 +91,53 @@ namespace Learner.Tutorials
                sum += i;
            }
            Console.WriteLine(sum);
+           
+           /*Console.WriteLine("====Exercise===");
+           List<int> myNumberList = new List<int>(){
+               2, 3, 5, 6, 7, 9, 10, 123, 324, 54
+           };
+
+           foreach (var i in myNumberList)
+           {
+               if (i % 2 == 0)
+               {
+                   Console.WriteLine(i);
+               }
+           }*/
+
+           // functions
+           //Console.WriteLine(totalValueVult(intsToCompress));
+           
+           // distinct
+           List<int> myListings = new List<int>() { 1,2,3,2,1,2,3,4,5,6,7};
+           
+           DisplaySet(myListings);
+
+        }
+
+        private static int totalValueVult(int[] arr)
+        {
+            int summation = 0;
+            foreach (var i in arr)
+            {
+                summation += i;
+            }
+            return summation;
+        }
+
+        private static void DisplaySet(List<int> arr)
+        {
+            HashSet<int> mySet = new HashSet<int>();
+            foreach (var i in arr) 
+            {
+                mySet.Add(i);
+            }
 
 
+            foreach (var d in mySet)
+            {
+                Console.WriteLine(d);
+            }
         }
     }
 }
